@@ -1,9 +1,5 @@
- aside {
-  ul {
-    margin: 0;
-  }
+@import 'color';
 
-  a {
-    color: red;
-  }
- }
+body {
+  color: $color;
+}
